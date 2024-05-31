@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-    <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=27&pause=1000&color=8749F7&center=true&random=false&width=435&lines=Hi+there!;I+am+Belsingh+Ferrus)](https://git.io/typing-svg)" />
+    <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=27&pause=1000&color=8749F7&center=true&random=false&width=435&lines=Hi+there!;I+am+Belsingh+Ferrus" />
 </h1>
 
 

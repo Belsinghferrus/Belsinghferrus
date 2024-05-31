@@ -67,9 +67,9 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com?user=Belsinghferrus%20&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats" alt="streak stats"/>
-    <br/><br/>
+    
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" alt="readme stats" />
-  <br/><br/>
+
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belsinghferrus&layout=compact&theme=transparent" alt="top langs" />
 </div>
 

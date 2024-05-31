@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=27&pause=1000&color=8749F7&center=true&random=false&width=435&lines=Hi+there!;I+am+Belsingh+Ferrus" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=43&duration=2000&pause=300&color=843BF7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=200&lines=Hi+there!;I+am+Belsingh+Ferrus" />
 </h1>
 
 <h3 align="center">A passionate software developer from India</h3>

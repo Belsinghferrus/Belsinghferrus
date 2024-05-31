@@ -55,8 +55,8 @@
 <h2 align="center">⚒️ My-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,postgres" /><br>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,python,express,flutter,firebase,"/><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript," /><br>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,python,express,flutter,firebase,postgres"/><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,androidstudio,linux,unreal," /><br>
     <img src="https://skillicons.dev/icons?i=ae,au,ps,pr" /><br>
 </div>

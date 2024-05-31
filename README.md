@@ -1,7 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<!--
-**Belsinghferrus/Belsinghferrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<h1 align="center">
+    <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=27&pause=1000&color=8749F7&center=true&random=false&width=435&lines=Hi+there!;I+am+Belsingh+Ferrus)](https://git.io/typing-svg)" />
+</h1>
+
 
 Here are some ideas to get you started:
 

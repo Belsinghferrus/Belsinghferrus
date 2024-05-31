@@ -20,7 +20,8 @@
 ⚡ Fun fact **A group of crows is called a “murder”.**
 
  </div>
-
+<br/>
+<hr/>
 <div align="center"> 
   <a href="mailto:belsinghf@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -55,8 +56,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,postgres" /><br>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,python,javascript,express,flutter,firebase,"/><br>
-    <img src="https://skillicons.dev/icons?i=vscode,github,androidstudio,linux,unreal,firebase," /><br>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,python,express,flutter,firebase,"/><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,androidstudio,linux,unreal," /><br>
     <img src="https://skillicons.dev/icons?i=ae,au,ps,pr" /><br>
 </div>
 

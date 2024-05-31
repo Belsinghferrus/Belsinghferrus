@@ -49,11 +49,7 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </div>
-
  <hr/>
-
- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 
 <h2 align="center">⚒️ My-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -67,3 +63,17 @@
 <br/>
 <hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com?user=Belsinghferrus%20&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vision-friendly-dark" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belsinghferrus&layout=compact" alt="top langs" />
+</div>
+
+<br/><br/>vision-friendly-dark
+
+<hr/>
+
+<br/>

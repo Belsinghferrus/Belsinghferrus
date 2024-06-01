@@ -66,7 +66,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center">
+<div >
   <img width=390 src="https://streak-stats.demolab.com?user=Belsinghferrus%20&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats" alt="streak stats"/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belsinghferrus&layout=compact&theme=transparent" alt="top langs" />
 </div>
